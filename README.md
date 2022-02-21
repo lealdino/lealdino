@@ -1,3 +1,5 @@
+# About Me
+
 - 👋 Hi, I’m @lealdino
 - 👀 I’m interested in Data Science, AI, Economics, Financial Markets, Gaming.
 - 🌱 I’m currently learning Scala, Spark, Clojure and Machine Learning.
