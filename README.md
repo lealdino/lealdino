@@ -8,3 +8,8 @@
 -- Instagram: @numerofobia
 -- E-mail: admin@dataverso.com.br
 
+## Current Work
+
+- Data Scientist at Nubank
+- Game Development at Campo Real University
+
