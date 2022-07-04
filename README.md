@@ -11,5 +11,6 @@
 ## Current Work
 
 - Data Scientist at Nubank
-- Game Development at Campo Real University
+- Game Development teacher at Campo Real University
+- Content creator at @numerofobia
 
