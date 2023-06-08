@@ -1,6 +1,6 @@
 # About Me
 
-- 👋 Hi, I’m @lealdino
+- 👋 Hi, I’m @lealdino - @numerofobia
 - 👀 I’m interested in Data Science, AI, Economics, Financial Markets, Gaming.
 - 🌱 I’m currently learning Scala, Spark, Clojure and Machine Learning.
 - 💞️ I’m looking to collaborate on Inteligent ways to improve personal finance and investing.
@@ -10,7 +10,8 @@
 
 ## Current Work
 
-- Data Scientist at Nubank
+- Senior Data Scientist at Nubank
 - Game Development teacher at Campo Real University
+- Writer at @dataverso
 - Content creator at @numerofobia
 
