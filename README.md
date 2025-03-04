@@ -11,7 +11,6 @@
 ## Current Work
 
 - Senior Data Scientist at Nubank
-- Game Development teacher at Campo Real University
 - Writer at @dataverso
 - Content creator at @numerofobia
 
